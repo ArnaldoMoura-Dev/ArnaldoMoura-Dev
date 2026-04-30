@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Arnaldo Moura! 👋
 
-<!--
-**ArnaldoMoura-Dev/ArnaldoMoura-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou graduando em Engenharia de Software pela **Universidade Federal do Ceará (UFC - Campus Russas)** e estou em uma jornada intensa para me tornar um Desenvolvedor Front-end de excelência.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias que utilizo:
+- **Linguagens:** JavaScript (ES6+), HTML5, CSS3.
+- **Ferramentas:** Git, GitHub, VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Meus Objetivos:
+Atualmente, estou focado em construir projetos sólidos para meu portfólio e buscando minha primeira oportunidade de **estágio** na área de desenvolvimento.
+
+---
+📫 **Como me encontrar:**
+[LinkedIn](www.linkedin.com/in/arnaldo-moura-0156a5267) | [arnaldodev16@gmail.com]
